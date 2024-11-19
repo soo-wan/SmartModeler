@@ -24,6 +24,16 @@ AI 기술을 사용하여 이미지 배경을 원하는 장면으로 변경할 �
 광고 목적과 타겟층에 맞는 최적화된 이미지를 제작할 수 있습니다.
 자연스러운 조합과 고해상도 출력을 통해 이미지 품질과 광고 효과를 극대화합니다.
 
+![image](https://github.com/user-attachments/assets/d1a23c25-2cd7-4536-8170-42670a422aa2)
+
+![image](https://github.com/user-attachments/assets/c0cc2a02-d3b2-4741-b8ea-cf155db381ac)
+
+![image](https://github.com/user-attachments/assets/f61e5739-cd06-4810-b0bc-f1b7de5a5d69)
+
+![image](https://github.com/user-attachments/assets/fd08968b-fc3d-4908-9f94-ff7088de9b9c)
+
+![image](https://github.com/user-attachments/assets/29931dac-46be-4239-9393-e401e6888390)
+
 ## 기능 시연 영상 링크
 https://youtu.be/R70mZzcZNmg
 
@@ -38,16 +48,4 @@ https://youtu.be/R70mZzcZNmg
 
 ## 이미지 배경 변경 + 업스케일링 캡쳐
 ![image](https://github.com/user-attachments/assets/868c23de-b514-4dd0-99ce-b7862d880469)
-
-
-![image](https://github.com/user-attachments/assets/d1a23c25-2cd7-4536-8170-42670a422aa2)
-
-![image](https://github.com/user-attachments/assets/c0cc2a02-d3b2-4741-b8ea-cf155db381ac)
-
-![image](https://github.com/user-attachments/assets/f61e5739-cd06-4810-b0bc-f1b7de5a5d69)
-
-![image](https://github.com/user-attachments/assets/fd08968b-fc3d-4908-9f94-ff7088de9b9c)
-
-![image](https://github.com/user-attachments/assets/29931dac-46be-4239-9393-e401e6888390)
-
 
